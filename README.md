@@ -19,7 +19,7 @@ Welcome to my GitHub profile! This is where open-source collaboration meets crea
 - 🎩 **Anime Enthusiast** (especially *One Piece*) and fan of Luffy's unwavering spirit!
 
 ---
-
+<!---
 ## 🚀 My Work
 Here are some highlights of what you'll find here:
 
@@ -31,7 +31,7 @@ Here are some highlights of what you'll find here:
 I actively contribute to open-source projects, sharing my skills and learning from the amazing developer community.
 
 ---
-<!---
+
 ## 🎨 Featured Projects
 ![One Piece - Luffy On Earth Animation](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
 
