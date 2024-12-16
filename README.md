@@ -1,6 +1,6 @@
 # Hi there, I'm Daichi Yuri! 👋
 
-![One Piece - Luffy On Earth Animation]([https://media.tenor.com/UTxKJNlZilwAAAAj/luffy-monkey-d-luffy.gif])
+![One Piece - Luffy On Earth Animation](https://media.tenor.com/UTxKJNlZilwAAAAj/luffy-monkey-d-luffy.gif)
 
 Welcome to my GitHub profile! This is where open-source collaboration meets creativity and innovation. I'm passionate about solving problems, sharing knowledge, and building awesome projects together. Let's make magic happen!
 
