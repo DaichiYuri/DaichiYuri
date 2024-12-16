@@ -52,7 +52,9 @@ I'm always excited to:
 
 ## 🔗 Connect With Me
 - **GitHub Discussions**: Share your ideas, ask questions, and let's build something awesome.
+<!---
 - **Twitter**: Follow me for updates and tech thoughts! [@DaichiYuri](https://twitter.com/DaichiYuri)
+--->
 
 ---
 
