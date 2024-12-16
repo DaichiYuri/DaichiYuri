@@ -25,7 +25,7 @@ I actively contribute to open-source projects, sharing my skills and learning fr
 ---
 
 ## 🎨 Featured Projects
-![One Piece - Luffy On Earth Animation](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
+![One Piece - Luffy On Earth Animation]([https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif](https://tenor.com/en-GB/view/luffy-monkey-d-luffy-yo-yo-luffy-hi-gif-16664977))
 
 1. **Huffman Coding & Compression**
    - Algorithms for efficient image and data compression.
